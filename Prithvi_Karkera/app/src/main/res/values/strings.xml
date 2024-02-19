@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Prithvi_Karkera</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="next">Hobbies</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        My name is Prithvi Karkera and I am a masters student at Pace University
+        majoring in Computer Science. I have 2 years of work experience as a system engineer
+        at Infosys India. I have completed my bachelors of engineering in Electronics and
+        telecommunication. I have worked on self driving car using Raspberry Pi
+        during my final year project.I live with my family at New Jersey.
+    </string>
+    <string name="third">Contact</string>
+    <string name="hobby">
+     I like to code and watch soccer matches.
+        </string>
+    <string name="contact">
+        My email is pk31117n@pace.edu
+    </string>
+    <string name="action_fb_email">Email: pk31117n@pace.edu</string>
+    <string name="action_about">About</string>
+</resources>
